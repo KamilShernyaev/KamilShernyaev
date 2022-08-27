@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 💬 Ask me about: **Unity, Unreal Engine, C#, Git**
-- 📫 How to reach me: **Find me on [<img alt="Telegram" height="25px" src="https://user-images.githubusercontent.com/103457938/187043768-490ce795-cc98-4bed-b6e9-83b6206f664e.png"/>](https://t.me/GoodYhink)**
+- 📫 How to reach me: **Find me on [<img alt="Telegram" height="25px" src="https://user-images.githubusercontent.com/103457938/187043768-490ce795-cc98-4bed-b6e9-83b6206f664e.png"/>](https://t.me/GoodYhink), [<img alt="Gmail" height="25px" src="https://user-images.githubusercontent.com/103457938/187043835-38401558-4413-4dc0-b10a-3ad3f4717561.png"/>](abroham97@gmail.com)**
 - ⚡ Fun fact: **I love to go climbing, even though I am afraid of heights.**
 
 ---
