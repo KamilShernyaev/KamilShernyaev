@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">I am a developer, Full-Stack enthusiast, Vue aficionado, Azure ninja, Microservice builder.</h3>
+<h1 align="center">Hi 👋, I'm Kamil</h1>
+<h3 align="center">I am a Game Developer</h3>
 </br>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 📝 I regulary write articles on: [https://medium.com/@visualbean](https://medium.com/@visualbean)
-- 💬 Ask me about: **Vue, Powershell, C#, Architecture, Azure**
-- 📫 How to reach me: **Find me on [<img alt="Alex | LinkedIn" height="15px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/alexcarlsen/)**
+- 💬 Ask me about: **Unity, Unreal Engine, C#, Git**
+- 📫 How to reach me: **Find me on [<img alt="Telegram" height="25px" src="https://user-images.githubusercontent.com/103457938/187043768-490ce795-cc98-4bed-b6e9-83b6206f664e.png"/>](https://t.me/GoodYhink)**
 - ⚡ Fun fact: **I love to go climbing, even though I am afraid of heights.**
 
 ---
+
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
