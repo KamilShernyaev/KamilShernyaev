@@ -1,9 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KamilShernyaev.KamilShernyaev">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=228FF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello%2CThere!;I'm+Shernyaev+Kamil;Nice+To+Meet+You!" alt="Typing SVG" /></a>
 </h1>
 
 <h5 align="center">
