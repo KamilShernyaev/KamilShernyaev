@@ -28,13 +28,16 @@
   <code><img title="C++" height="25" src="Image/cpp.svg"></code>
   <code><img title="C#" height="25" src="Image/cSharp.svg"></code>
   <code><img title="Python" height="25" src="Image/python-original.svg"></code>
-  <code><img title="Git" height="25" src="Image/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="Image/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="Image/visualstudio.png"></code>
   <code><img title="Unity" height="25" src="Image/unity3d.svg"></code>
   <code><img title="Unreal Engine 4/5" height="25" src="Image/unreal.jpg"></code>
+  <code><img title="Blender" height="25" src="Image/Blender_logo.svg"></code>
+  <code><img title="Photoshop" height="25" src="Image/Adobe_Photoshop.svg"></code>
   <code><img title="Android" height="25" src="Image/android.svg"></code>
+  <code><img title="Git" height="25" src="Image/git-original.svg"></code>
   <code><img title="GitHub" height="25" src="Image/github.svg"></code>
+  <code><img title="GitLab" height="25" src="Image/gitlab-logo.svg"></code>
 </p>
 <hr>
 
