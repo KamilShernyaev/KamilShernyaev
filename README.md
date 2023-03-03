@@ -13,7 +13,6 @@
 <p align="center">
   Hi, I'm Kamil Shernyaev, Unity/Unreal Engine Game Developer
   <br>
-  <br>
   🔬 I'm currently studying for a master's degree in Russian Presidential Academy of National Economy and Public Administration (RANEPA)
   <br>
   💻 I love writing code and learn anythings about it
