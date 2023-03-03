@@ -9,7 +9,6 @@
   <code><a href="https://t.me/GoodYhink" title="Telegram"><img width="22" src="Image/Telegram_logo.svg"> Telegram</a></code>
   <code><a href="https://www.instagram.com/_waltonit_/" title="Instagram Profile"><img width="22" src="Image/instagram.svg"> Instagram</a></code>
 </h5>
-<br>
 <p align="center">
   Hi, I'm Kamil Shernyaev, Unity/Unreal Engine Game Developer
   <br>
